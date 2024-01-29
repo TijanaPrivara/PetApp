@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Image Gallery App</string>
+    <string name="app_name">Pet App</string>
     <string name="cats">Cats</string>
     <string name="dogs">Dogs</string>
     <string name="appbar_text">Gallery App</string>
