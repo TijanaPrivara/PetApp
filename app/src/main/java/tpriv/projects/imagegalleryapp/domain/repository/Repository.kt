@@ -1,9 +1,7 @@
 package tpriv.projects.imagegalleryapp.domain.repository
 
-import tpriv.projects.imagegalleryapp.domain.model.PhotoItem
 import tpriv.projects.imagegalleryapp.domain.model.SearchResponse
 import tpriv.projects.imagegalleryapp.util.Resource
-import kotlinx.coroutines.flow.Flow
 import tpriv.projects.imagegalleryapp.domain.model.MetadataResponse
 
 interface Repository {
